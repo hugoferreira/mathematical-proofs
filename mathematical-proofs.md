@@ -76,7 +76,7 @@ a. Describe the set $A$ by listing its elements.
 
 b. Give an example of three elements that belong to $B$ but do not belong to $A$. 
 
-> $S = \{\frac{5}{2}, \frac{7}{3}, 4\}$, where $S \subseteq B \wedge \forall {s \in S}: s \notin A$
+> $S = \{^5/_2, ^7/_3, 4\}$, where $S \subseteq B \wedge \forall {s \in S}: s \notin A$
 
 c. Describe the set $C$ by listing its elements.
 
